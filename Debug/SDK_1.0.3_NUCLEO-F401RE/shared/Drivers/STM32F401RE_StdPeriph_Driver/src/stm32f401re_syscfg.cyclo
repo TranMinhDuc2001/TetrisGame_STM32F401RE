@@ -1,0 +1,6 @@
+C:/Users/ductm/Downloads/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_syscfg.c:79:6:SYSCFG_DeInit	1
+C:/Users/ductm/Downloads/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_syscfg.c:98:6:SYSCFG_MemoryRemapConfig	1
+C:/Users/ductm/Downloads/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_syscfg.c:119:6:SYSCFG_MemorySwappingBank	1
+C:/Users/ductm/Downloads/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_syscfg.c:142:6:SYSCFG_EXTILineConfig	1
+C:/Users/ductm/Downloads/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_syscfg.c:166:6:SYSCFG_CompensationCellCmd	1
+C:/Users/ductm/Downloads/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_syscfg.c:179:12:SYSCFG_GetCompensationCellStatus	2
